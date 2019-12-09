@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Description
+
+This repo was for me to practice using react through the guided tutorial on
+the official react website. The [link](https://reactjs.org/tutorial/tutorial.html)
+is here. This tutorial allowed me to play around with react components as well
+as using a basic toolchain found [here](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app).
+
+### Project structure
+
+All the files are in the src/ directory.
+index.js is the main file along with index.css for styling.
+test.js is the official completed code from the react website. I was using it
+for debugging purposes.
+
 ## Available Scripts
 
 In the project directory, you can run:
